@@ -10,4 +10,15 @@ We learned some stuff
 
 ### Code 
 
-[Test test](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/calculator00.py)
+[Hello Raspberry Pi](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/calculator00.py)
+
+## Hello Mathematica
+
+### Lessons Learned
+
+We learned more stuff
+
+### Code
+
+[Hello Mathematica](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Mathematica/Hello_Mathematica.nb
+
