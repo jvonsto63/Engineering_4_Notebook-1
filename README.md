@@ -20,5 +20,5 @@ We learned more stuff
 
 ### Code
 
-[Hello Mathematica](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Mathematica/Hello_Mathematica.nb
+[Hello Mathematica](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Mathematica/Hello_Mathematica.nb)
 
