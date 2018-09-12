@@ -22,3 +22,12 @@ We learned more stuff
 
 [Hello Mathematica](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Mathematica/Hello_Mathematica.nb)
 
+## Hello Python
+
+### Lessons Learned
+
+info info info
+
+### Code
+
+[Hello Python](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/lessons00.py)
