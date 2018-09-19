@@ -6,7 +6,7 @@ This is where all my stuff will go!
 
 ### Lessons Learned
 
-We learned some stuff
+We learned the basics of Raspberry Pi in this assignment. This involved setting up the whole wire configuration thing and getting it to work on the computer. Then, we familiarized ourselves with terminal, and we wrote some basic code to get the mind gears turning. This was helpful in learning how to navigate our way through terminal, which was a bit confusing at first.
 
 ### Code 
 
@@ -16,7 +16,7 @@ We learned some stuff
 
 ### Lessons Learned
 
-We learned more stuff
+We learned how to work with a super smart calculator. It is cool to see all the different things that it can do. The tough part here was creating the adjustable graph. In the beginnnig, we had no idea what to do, but with  our best friend Google, we were ablt to find the necessary parts to the equation little by little until we had something coherent.
 
 ### Code
 
@@ -26,7 +26,7 @@ We learned more stuff
 
 ### Lessons Learned
 
-info info info
+Here, we learned the basics of Python. The goal was to make a "dice roller" that repeatedly spits 
 
 ### Code
 
@@ -36,7 +36,7 @@ info info info
 
 ### Lessons Learned
 
-info info info
+We did some calculations in python. By entering two numbers in place of variables, Python will add, subtract, etc for us and generate a value for us. It was pretty simple once we figured out how to write the code for one of the calculations, and that only took a bit of research. It did take a bit of time to get the specifics down so that the format of the answer had the correct amount of digits and such.
 
 ### Code
 
@@ -46,7 +46,7 @@ info info info
 
 ### Lesson Learned
 
-info info info
+By inputting a few numbers for the coefficients, we  were able to get the value for the discriminant, which Python solves for us. It took a while to figure out the exact syntax for everything, but the hardest part was understanding how the "else", "if", and "elif" statements worked in conjunction with each other. For the most part, however, it was fairly easy to understand.
 
 ### Code
 
@@ -56,16 +56,16 @@ info info info
 
 ### Lessons Learned
 
-info info info
+We set up our Git pages. This whole process was fairly straightforward as we just had to follow some directions, but it did take a decent amount of time to complete.
 
 ## Git - Forks and Clones
 
 ### Lessons Learned
 
-info info info
+This involved the whole collaboration part of the Git page. We had to put our name, page, and a fun fact into the cool-repo page. It took us a while to figure out how to navigate everything to be able to upload our information, and then we forgot to put it into the main page instead if just the forked version. This was a simple fix, but it took us a while to figure out where we went wrong.
 
 ## Git - Engineering 4 Notebook
 
 ### Lessons Learned
 
-info info info
+This was just putting stuff into our notebook. This was a pretty simple assignment, but it took a long time to upload everything and write descriptions for all of our assignments. There were not really any difficulties we ran into.
