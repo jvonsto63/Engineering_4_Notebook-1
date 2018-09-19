@@ -69,3 +69,13 @@ This involved the whole collaboration part of the Git page. We had to put our na
 ### Lessons Learned
 
 This was just putting stuff into our notebook. This was a pretty simple assignment, but it took a long time to upload everything and write descriptions for all of our assignments. There were not really any difficulties we ran into.
+
+## Python - Strings and Loops
+
+### Lessons Learned
+
+We learned how to use some for statements to make a vertical line of letters. I also finally learned what "char" means (it means character). Otherwise, all we had to do was define some terms and it was overall pretty simple. 
+
+### Code
+
+[Python String + Loop](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/stringloop00.py)
