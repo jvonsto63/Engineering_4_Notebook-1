@@ -79,3 +79,13 @@ We learned how to use some for statements to make a vertical line of letters. I 
 ### Code
 
 [Python String + Loop](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/stringloop00.py)
+
+## Python - Pinata
+
+### Lessons Learned
+
+This was quite a complicated assignment. We had to make a whole hangman game from scratch, and this was not easy as we had never really done anything like it. We had to pull bits of code from different things we found on the internet, and it took a lot of editing to get it to where it met our needs. It took us awhile to write the code for tha actual hangman picture, as we had to configure it so that the spacing was exactly right, which took some trial and error.
+
+### Code
+
+[Pinata Game](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/pinata00.py)
