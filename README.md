@@ -89,3 +89,13 @@ This was quite a complicated assignment. We had to make a whole hangman game fro
 ### Code
 
 [Pinata Game](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/pinata00.py)
+
+## GPIO Pins - Bash
+
+### Lessons Learned
+
+The main thing we learned here is how to put on the GPIO wires correctly. The code was fairly simple, and it was finished for a while, but our wires were reversed and it took us forever to figure this out. As soon as we made this simple fix, everything worked.
+
+### Code
+
+[GPIO Bash](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Scripts/GPIObash.sh)
