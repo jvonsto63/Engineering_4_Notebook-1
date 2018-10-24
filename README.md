@@ -99,3 +99,13 @@ The main thing we learned here is how to put on the GPIO wires correctly. The co
 ### Code
 
 [GPIO Bash](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Scripts/GPIObash.sh)
+
+## GPIO Pins - Python
+
+### Lessons Learned
+
+This was pretty much the same code as the last but just in a slightly different format. We just had to figure out how to write it in a way that Python would be happy with which was not too difficult. We just had to find one or two lines that we didn't originally think of.
+
+### Code
+
+[GPIO Python](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/GPIOpython00.py)
