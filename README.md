@@ -110,9 +110,18 @@ This was pretty much the same code as the last but just in a slightly different 
 
 [GPIO Python](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/GPIOpython00.py)
 
-
 ## GPIO Pins - SSH
 
 ### Lessons Learned
 
 This assignment was pretty much just following the steps. The apps were blocked on our chromebooks, so we had to use one of our phones. It took us a while to figure out that instead of setting the password as "raspberry" we put "Rasberry" because I don't know how to spell. Besides that, it was pretty easy to set up and entering the code was simple.
+
+## Hello Flask
+
+### Lessons Learned
+
+Completing the assignment was fairly straightforward so we didn't run into any complications, but this assignment helped us to understand how Flask can help us. It was cool to see how we could connect to the pi straight from a web browser after writing just a few lines of code.
+
+### Code
+
+[Hello Flask](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py)
