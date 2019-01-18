@@ -132,11 +132,15 @@ Completing the assignment was fairly straightforward so we didn't run into any c
 
 ### Code
 
+[GPIO Flask](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py)
+
 ## GPIO Pins I2C
 
 ### Lessons Learned
 
 ### Code
+
+[GPIO I2C](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/acceldata.py)
 
 ## Headless
 
@@ -144,11 +148,19 @@ Completing the assignment was fairly straightforward so we didn't run into any c
 
 ### Code
 
+[Headless](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/headless.py)
+
 ## Pi Camera
 
 ### Lessons Learned
 
 ### Code
+
+[Camera 1](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/camera_test01.py)
+
+[Camera 2](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/camera_test02.py)
+
+[Camera 3](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/camera_test03.py)
 
 ## Hack Your Stuff
 
