@@ -125,3 +125,31 @@ Completing the assignment was fairly straightforward so we didn't run into any c
 ### Code
 
 [Hello Flask](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py)
+
+## GPIO Pins - Flask
+
+### Lessons Learned
+
+### Code
+
+## GPIO Pins I2C
+
+### Lessons Learned
+
+### Code
+
+## Headless
+
+### Lessons Learned
+
+### Code
+
+## Pi Camera
+
+### Lessons Learned
+
+### Code
+
+## Hack Your Stuff
+
+## Copypasta
