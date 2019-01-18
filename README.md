@@ -134,7 +134,7 @@ Completing the assignment was fairly straightforward so we didn't run into any c
 
 [GPIO Flask](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py)
 
-## GPIO Pins I2C
+## GPIO Pins - I2C
 
 ### Lessons Learned
 
