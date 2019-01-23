@@ -120,7 +120,7 @@ This assignment was pretty much just following the steps. The apps were blocked 
 
 ### Lessons Learned
 
-Completing the assignment was fairly straightforward so we didn't run into any complications, but this assignment helped us to understand how Flask can help us. It was cool to see how we could connect to the pi straight from a web browser after writing just a few lines of code.
+Completing the assignment was fairly straight-forward so we didn't run into any complications, but this assignment helped us to understand how Flask can help us. It was cool to see how we could connect to the pi straight from a web browser after writing just a few lines of code.
 
 ### Code
 
@@ -130,6 +130,8 @@ Completing the assignment was fairly straightforward so we didn't run into any c
 
 ### Lessons Learned
 
+For this assignment we created an IP address to have two buttons which controlled the LEDs connected to the breadboard. We then had a little bit of fun with the background and layout of that page, with a cool color blend.
+
 ### Code
 
 [GPIO Flask](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py)
@@ -137,6 +139,8 @@ Completing the assignment was fairly straightforward so we didn't run into any c
 ## GPIO Pins - I2C
 
 ### Lessons Learned
+
+This assignment involved a new gadget called the 
 
 ### Code
 
