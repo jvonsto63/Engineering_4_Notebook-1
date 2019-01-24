@@ -50,7 +50,7 @@ By inputting a few numbers for the coefficients, we  were able to get the value 
 
 ### Code
 
-[Quadratic Solver](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/quadratic00.py)
+[Quadratic Solver](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/quadratric00.py)
 
 ## Hello Git
 
