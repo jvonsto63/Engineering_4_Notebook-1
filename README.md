@@ -140,7 +140,7 @@ For this assignment we created an IP address to have two buttons which controlle
 
 ### Lessons Learned
 
-This assignment involved a new gadget called the 
+This assignment involved a new gadget called the LSM303. This would be the display on which our graph would be shown. The assignment gave us some of the commands we had to use to set up the accelerometer and magnetometer, which was the easy part. Then, we had to transfer that information being run by the simpletest.py.
 
 ### Code
 
