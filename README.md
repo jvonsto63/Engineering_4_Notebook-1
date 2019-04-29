@@ -150,9 +150,7 @@ This assignment involved a new gadget called the LSM303. This would be the displ
 
 ### Lessons Learned
 
-Then figure out how to run your program without a monitor, keyboard, or mouse.  I think you have at least two options: 1) have your program automatically run at start up or 2) have your pi jump online automatically at startup then SSH into your pi and run the program. 
-
-Once you have that figured out, get it working on battery power.  You're done when you can walk around with your battery-powered pi graphically displaying acceleration data, and no monitor, keyboard, or mouse.  Bam.
+we picked an axis and made it work without a plug.
 
 ### Code
 
