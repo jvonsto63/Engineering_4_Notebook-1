@@ -150,7 +150,7 @@ This assignment involved a new gadget called the LSM303. This would be the displ
 
 ### Lessons Learned
 
-we picked an axis and made it work without a plug.
+We had to figure out how to make an animated line plot first, which we found the code for online, then made a few adjustments. We picked the option of making it run at startup, and that took a bit to get right as each trial would take a couple minutes. Once we had that, we just unplugged everything and put a battery in.
 
 ### Code
 
