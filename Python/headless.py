@@ -42,7 +42,7 @@ graphHeight = 50
 xPadding = width - graphWidth
 spacing = graphWidth / length
 yAxisText = 'a(m/s^2)'
-batteryFull = None
+#batteryFull = None
 showIcon = False
 flashCounter = 0
 
@@ -90,22 +90,22 @@ while True:
                 ((mapNum(data[x+1], -10, 10, 0, graphHeight)))),
                 fill = 255)
 
-    batteryFull = GPIO.input(17)
+#    batteryFull = GPIO.input(17)
 
     if(flashCounter > 1):
         showIcon = False if(showIcon) else True
         flashCounter = 0
     else:
         flashCounter += 1
-
-    if(showIcon and batteryFull == 0):
-        draw.rectangle((width - 20, 4, width - 7, 10), outline=255, fill=0)
-        draw.rectangle((width - 20, 4, width - 17, 10), outline=255, fill=255)
-        draw.rectangle((width - 7, 6, width - 5, 8), outline=255, fill=255)
-    elif(batteryFull == 1):
-        draw.rectangle((width - 20, 4, width - 7, 10), outline=255, fill=0)
-        draw.rectangle((width - 20, 4, width - 11, 10), outline=255, fill=255)
-        draw.rectangle((width - 7, 6, width - 5, 8), outline=255, fill=255)
+#
+#    if(showIcon and batteryFull == 0):
+#        draw.rectangle((width - 20, 4, width - 7, 10), outline=255, fill=0)
+#        draw.rectangle((width - 20, 4, width - 17, 10), outline=255, fill=255)
+#        draw.rectangle((width - 7, 6, width - 5, 8), outline=255, fill=255)
+#    elif(batteryFull == 1):
+#        draw.rectangle((width - 20, 4, width - 7, 10), outline=255, fill=0)
+#        draw.rectangle((width - 20, 4, width - 11, 10), outline=255, fill=255)
+#        draw.rectangle((width - 7, 6, width - 5, 8), outline=255, fill=255)
     
     disp.image(image)
     disp.display()
