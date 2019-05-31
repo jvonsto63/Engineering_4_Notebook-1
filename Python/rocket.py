@@ -29,6 +29,8 @@ sleep(5)
 
 GPIO.output(17, GPIO.HIGH)
 
+sleep(3)
+
 while i<50:
     data[0] = sensor.read_altitude()
     data.append(sensor.read_altitude())
