@@ -19,16 +19,18 @@ if d < 0:
 elif d == 0:
     num_roots = 1
     x = ((-b) / 2*a)
-    print("Root =")
-    print(x)
+    #print("Root =")
+    #print(x)
 else:
     num_roots = 2
     x1 = ((-b + sqrt(d))/(2*a))
     x2 = ((-b - sqrt(d))/(2*a))
-    print("Roots =")
-    print(x1,x2)
+    #print("Roots =")
+    #print(x1,x2)
 
-
+arr = [x1, x2]
+print(arr[0])
+print(arr[1])
 
 
 
